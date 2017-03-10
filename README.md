@@ -12,9 +12,11 @@ requests_example.py -- a more complicated requests example. this is a precursor 
 
 
 If you receive errors, you may need to "pip install" some repositories:
+
 pip install beautifulsoup4
+
 pip install requests
+
 pip install pil
+
 possibly: pip install Pillow
-
-
